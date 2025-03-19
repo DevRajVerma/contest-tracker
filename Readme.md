@@ -116,14 +116,14 @@ Contest Tracker is a web application built using the MERN stack (MongoDB, Expres
 5. Start the backend server: `npm start`
 
 ### Frontend Setup
-1. Navigate to the frontend directory: `cd contest-tracker/frontend`
+1. Navigate to the frontend directory: `cd contest-tracker/frontend/vite-project`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Start the development server: `npm run dev`
 4. The application will be available at: `http://localhost:3000`
 
 ## Running the Application
 
 1. Make sure MongoDB is running
 2. Start the backend server: `cd backend && npm start`
-3. In a separate terminal, start the frontend server: `cd frontend && npm start`
+3. In a separate terminal, start the frontend server: `cd frontend/vite-project && npm run dev`
 4. Access the application in your browser at: `http://localhost:3000`
